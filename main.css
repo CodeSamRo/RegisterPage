@@ -18,6 +18,7 @@ h1 {
     text-align: left;
 }
 input {
+    
     border-radius: 5px;
     border-color: black;
     width: 75%;
@@ -27,4 +28,13 @@ input {
     margin-top:15%;
     margin-left: 12%;
     width: 75%;
+}
+
+.left {
+  float: left;
+  margin-left: 560px;
+}
+.right{
+    float: right;
+    margin-right: 620px;
 }
