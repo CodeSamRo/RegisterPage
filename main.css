@@ -5,6 +5,7 @@ background-color: lightblue;
 fieldset { 
     margin-right: 40%;
     margin-left: 40%;
+    border-radius: 5px;
     border: 1px solid black;
     background-color: lightgray;
 }
